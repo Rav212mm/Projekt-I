@@ -1,6 +1,5 @@
-Do projektu zosta³u u¿yte dane œci¹gniête z internetu i zapisane w postaci plików csv w folderze "data".
+Do projektu zostaÅ‚y uÅ¼te dane Å›ciÄ…gniÄ™te z internetu i zapisane w postaci plikÃ³w csv w folderze "data".
 
-Efektem koñcowym jest przewidywana cena danego aktywa na najbli¿sze 14 dni.
+Efektem koÅ„cowym jest przewidywana cena danego aktywa na najbliÅ¼sze 14 dni.
 
-W trakcjie realizacji jest analiza sentymentu z twitera (wymaga codziennego nas³uchiwania wiêc jest to proces czasoch³onny) oraz LSTM dla kilku zmiennych.
-
+W trakcjie realizacji jest analiza sentymentu z twitera (wymaga codziennego nasÅ‚uchiwania wiÄ™c jest to proces czasochÅ‚ony) oraz LSTM dla kilku zmiennych.
